@@ -41,14 +41,14 @@ pip install networkx matplotlib
    Data Processing: Strategic normalization preserving evidence while standardizing entities
    Visualization: Enhanced graph with comprehensive legend and styling
 
-💡 DESIGN JUSTIFICATIONS:
+    💡 DESIGN JUSTIFICATIONS:
    Personality Representation: Traits as nodes enables rich queries and natural OCEAN framework alignment
    Evaluation Metrics: Comprehensive metrics covering extraction capability, quality assessment, and personality analysis
    Llm Workflow: Sequential processing with specialized prompts for different knowledge types
    Data Processing: Balances entity consistency with information preservation
    Visualization Legend: Clear color-coding and styling for interpretability and professional presentation
 
-  ✅ ASSESSMENT CRITERIA COVERAGE:
+   ✅ ASSESSMENT CRITERIA COVERAGE:
    Knowledge Graph Construction: ✅ Multi-entity extraction with personality integration
    Evaluation Metrics: ✅ Comprehensive metrics with clear justifications
    Personality Representation: ✅ Psychological framework alignment with trait nodes
@@ -58,8 +58,8 @@ pip install networkx matplotlib
    Implementation Quality: ✅ Working solution with error handling
 
 2. from main_final
-  ✅ F1 Trait Metrics:
-  {'precision': 0.818, 'recall': 0.45, 'f1': 0.581, 'tp': 9, 'fp': 2, 'fn': 11}
+   ✅ F1 Trait Metrics:
+   {'precision': 0.818, 'recall': 0.45, 'f1': 0.581, 'tp': 9, 'fp': 2, 'fn': 11}
 
   
 
